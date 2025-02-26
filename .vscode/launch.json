@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/vssta/OneDrive/Escritorio/el_lenguaje_de_programacion_C/LasBasesDeLaProgramacion",
-      "program": "c:/Users/vssta/OneDrive/Escritorio/el_lenguaje_de_programacion_C/LasBasesDeLaProgramacion/build/Debug/outDebug",
+      "cwd": "c:/Users/vssta/OneDrive/Escritorio/mis proyectos/el_lenguaje_de_programacion_C/Punteros",
+      "program": "c:/Users/vssta/OneDrive/Escritorio/mis proyectos/el_lenguaje_de_programacion_C/Punteros/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
