@@ -30,6 +30,12 @@ int getline(char line[], int lim){
     }
     line[i] = '\0';
 }
+
+void writelines(char *lineptr[], int nlines){
+    for (int i = 0; i < nlines; i++)
+        printf("%s\n", lineptr[i]);
+}
+
 void strcpyPunteros(char *s, char *t){
     while((*s++=*t++)!='\0');
 }
