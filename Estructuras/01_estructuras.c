@@ -16,4 +16,6 @@ int main(int argc, char *argv){
     jugador.altura = 1.90f;
     jugador.dorsal = 1;
     jugador.ptos_totales = 45;
+
+    return 0;
 }
